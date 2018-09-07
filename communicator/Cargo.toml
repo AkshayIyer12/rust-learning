@@ -1,0 +1,6 @@
+[package]
+name = "communicator"
+version = "0.1.0"
+authors = ["Akshayiyer12 <c.m.akshay.iyer@gmail.com>"]
+
+[dependencies]
