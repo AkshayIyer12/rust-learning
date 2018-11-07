@@ -65,3 +65,6 @@
 //     }
 //      println!("count after c goes out of scope = {}", Rc::strong_count(&a));
 // }
+fn main() {
+    println!("hello world");
+}
