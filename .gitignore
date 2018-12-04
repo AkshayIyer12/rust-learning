@@ -1,3 +1,5 @@
 **/target
 **/src/*.rs~
 **/src/#*.rs#
+**/src/bin/*.rs~
+**/src/bin/#*.rs#
